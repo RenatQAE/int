@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Player1",
+    "balance": 1,
+    "online": true
+  },
+  {
+    "id": 2,
+    "name": "Player2",
+    "balance": 2,
+    "online": true
+  }
+]
